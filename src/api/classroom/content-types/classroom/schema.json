@@ -1,10 +1,11 @@
 {
-  "kind": "singleType",
+  "kind": "collectionType",
   "collectionName": "classrooms",
   "info": {
     "singularName": "classroom",
     "pluralName": "classrooms",
-    "displayName": "Classroom"
+    "displayName": "Classroom",
+    "description": ""
   },
   "options": {
     "draftAndPublish": true
